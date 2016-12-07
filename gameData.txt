@@ -1,0 +1,4 @@
+1,PS4,RPG,2016,Final Fantasy XV,59.99
+2,PC,Card,2014,Hearthstone,0.00
+3,PC,RPG,2004,World of Warcraft,19.99
+4,Xbox 1,Action,2013,Halo 4,39.99
