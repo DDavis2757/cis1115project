@@ -1,7 +1,7 @@
 package myproject;
 
 /**
- * Object for games.  This class if for games.
+ * Object for games.  This class if for games.  Comment 2.
  *
  * @author Dillon Davis
  */
