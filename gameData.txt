@@ -2,3 +2,5 @@
 2,PC,Card,2014,Hearthstone,0.00
 3,PC,RPG,2004,World of Warcraft,19.99
 4,Xbox 1,Action,2013,Halo 4,39.99
+5,PS4,Action,2016,Battlefield 1,59.99
+6,Xbox 1,RPG,2014,Final Fantasy XIV,49.99
