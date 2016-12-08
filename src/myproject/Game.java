@@ -1,7 +1,7 @@
 package myproject;
 
 /**
- * 
+ * Class for games.
  *
  * @author Dillon Davis
  */
