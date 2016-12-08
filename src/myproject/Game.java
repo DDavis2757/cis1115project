@@ -14,10 +14,6 @@ public class Game {
     private String name;
     private double price;
 
-    public Game() {
-
-    }
-
     public Game(int id, String console, String genre, int yearRelease, String name, double price) {
         this.id = id;
         this.console = console;
